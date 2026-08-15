@@ -217,7 +217,8 @@ Tabiviaでは、不適切な表現の投稿を防止するため、投稿およ�
 本ガイドラインに関するお問い合わせは、本アプリ内のお問い合わせ機能または以下の連絡先からご連絡ください。
 
 運営者：Tabivia運営  
-メールアドレス：tabivia.support@gmail.com
+メールアドレス：tabivia.support@gmail.com  
 Webサイト：https://takumikaikawa.github.io/tabivia-legal/
 
-制定日：2026年8月16日
+制定日：2026年8月16日  
+改定日：2026年8月16日
