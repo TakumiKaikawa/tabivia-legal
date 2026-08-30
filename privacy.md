@@ -3,7 +3,7 @@
 layout: default
 title: Tabivia プライバシーポリシー
 permalink: /privacy/
---------------------
+---
 
 # Tabivia プライバシーポリシー
 
