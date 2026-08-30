@@ -15,6 +15,7 @@ permalink: /
 - [プライバシーポリシー](privacy/)
 - [利用規約](terms/)
 - [コミュニティガイドライン](community/)
+- [特定商取引法に基づく表記](/tabivia-legal/commercial-transactions/)
 
 ## お問い合わせ
 
